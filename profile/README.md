@@ -2,5 +2,4 @@
 
 We proxy your memes.
 
-
-Currently away studying (well, procrastinating atm) till mid-December.
+New site coming soon
