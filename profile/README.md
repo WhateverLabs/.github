@@ -13,7 +13,7 @@ New site coming soon
 
 # Socials & Communities
 
-- [Mastodon](https://noc.social/@whatever)
+- <a rel="me" href="https://noc.social/@whatever">Mastodon</a>
 - [Matrix](https://matrix.to/#/#whatever:matrix.httpjames.space)
 
 
