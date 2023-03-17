@@ -10,6 +10,7 @@ New site coming soon
 - [AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) by [httpjames](https://httpjames.space)
 - Whatever Social Website 2.0 (Coming Soon™️) by [privacytime101](https://github.com/privacytime101)
 - Guides Project (TBA)
+- [Whatever Bot](https://github.com/WhateverLabs/WhateverBot) by [privacytime101](https://github.com/privacytime101)
 
 
 # Socials & Communities
