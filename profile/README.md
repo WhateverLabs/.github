@@ -7,7 +7,7 @@ We proxy your memes.
 
 - [AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) by [http.james](https://httpjames.space)
 - [WhateverSite](https://github.com/WhateverLabs/WhateverSite) by [http.james](https://httpjames.space) and [privacytime101](https://github.com/privacytime101)
-- [Whatever Launchpad](https://github.com/httpjamesm/launchpad-redirects) by [http.james]
+- [Whatever Launchpad](https://github.com/httpjamesm/launchpad-redirects) by [http.james](https://httpjames.space)
 - Guides Project (TBA)
 - [Whatever Bot](https://github.com/WhateverLabs/WhateverBot) by [privacytime101](https://github.com/privacytime101)
 
