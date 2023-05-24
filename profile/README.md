@@ -2,13 +2,11 @@
 
 We proxy your memes.
 
-New site coming soon
-
 
 # Projects
 
-- [AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) by [httpjames](https://httpjames.space)
-- Whatever Social Website 2.0 (Coming Soon™️) by [privacytime101](https://github.com/privacytime101)
+- [AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) by [http.james](https://httpjames.space)
+- [WhateverSite](https://github.com/WhateverLabs/WhateverSite) by [http.james](https://httpjames.space) and [privacytime101](https://github.com/privacytime101)
 - Guides Project (TBA)
 - [Whatever Bot](https://github.com/WhateverLabs/WhateverBot) by [privacytime101](https://github.com/privacytime101)
 
