@@ -20,6 +20,7 @@ We proxy your memes.
 
 
 # Donate (Help keep the servers running)
+For obvious reasons, we make no money from typical sources of income that you see with most free services, such as advertising or selling user data. This is why we rely solely on donations to keep going.
 
 - [Liberapay](https://liberapay.com/whateversocial)
 - Monero (XMR) Address: `87tu5QTMSKmi8RmyyRCP1daBouRKegmL54k9d4cqqWscHWTqSaKRXQu9X2g81JgJyfQFbyL1dTRmR6TsZ8oZZqLj1Ljfyd7`
