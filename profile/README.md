@@ -9,7 +9,7 @@ We proxy your memes.
 - [WhateverSite](https://github.com/WhateverLabs/WhateverSite) by [http.james](https://httpjames.space), [privacytime101](https://github.com/privacytime101), and [Toso](https://github.com/Tosoju)
 - [Whatever Launchpad](https://github.com/httpjamesm/launchpad-redirects) by [http.james](https://httpjames.space)
 - [Whatever Bot](https://github.com/WhateverLabs/WhateverBot) by [privacytime101](https://github.com/privacytime101)
-- Carbon Paper (TBA)
+- [Carbon Paper](https://github.com/WhateverLabs/CarbonPaper) by [http.james](https://httpjames.space)
 - Forcefield (In testing)
 
 
