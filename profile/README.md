@@ -15,7 +15,7 @@ We proxy your memes.
 
 # Socials & Communities
 
-- <a rel="me" href="https://noc.social/@whatever">Mastodon</a>
+- <a rel="me" href="https://orchard.social/@whatever">Mastodon</a>
 - [Matrix](https://matrix.to/#/#whatever:matrix.httpjames.space)
 
 
