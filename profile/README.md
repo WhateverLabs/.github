@@ -1,6 +1,6 @@
 # Whatever Labs
 
-We proxy your memes.
+We proxy your memes. Give us your money (respectfully)
 
 
 # Projects
